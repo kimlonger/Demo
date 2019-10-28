@@ -4,6 +4,7 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
 public class RedisDemo {
+    //测试下载
     @Test
     public void test(){
         //获得连接对象
